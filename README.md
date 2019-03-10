@@ -6,7 +6,7 @@ This repo contains essential cheet sheets for AI, neural networks, machine learn
 
 Folder Name | Components
 -----------|-----------
-ML| <ul> <li>Machine Learning Overview </li> <li>Scikit-Learn</li> <li>Python Scikit-Learn</li> <li>ML Algo Cheat Sheet</li> </ul>
-Neutral_network| <ul> <li>Neutral Network Cheat Sheet</li> <li>Neutral Network Graphs </li> </ul>
-Python_R_data_science| <ul> <li> Python Basics/Numpy/Pandas/Matplotlib</li> <li> TensorFlow</li> <li>Pyspark </li><li> Keras</li> <li> Bokeh</li> <li>dplyr/tidyr/ggplot2 </li><li>Data Structure </li><li>Sorting/Big-O </li> </ul>
+[ML](../tree/master/ML)| <ul> <li>Machine Learning Overview </li> <li>Scikit-Learn</li> <li>Python Scikit-Learn</li> <li>ML Algo Cheat Sheet</li> </ul>
+[Neural_network](../tree/master/Neural_network)| <ul> <li>Neural Network Cheat Sheet</li> <li>Neural Network Graphs </li> </ul>
+[Python_R_data_science](../tree/master_Python_R_data_science)| <ul> <li> Python Basics/Numpy/Pandas/Matplotlib</li> <li> TensorFlow</li> <li>Pyspark </li><li> Keras</li> <li> Bokeh</li> <li>dplyr/tidyr/ggplot2 </li><li>Data Structure </li><li>Sorting/Big-O </li> </ul>
 
